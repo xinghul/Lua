@@ -1,0 +1,7 @@
+print("type(\"Hello World\") : " .. type("Hello World"))
+print("type(10.4 * 3) : " .. type(10.4 * 3))
+print("type(print) : " .. type(print))
+print("type(type) : " .. type(type))
+print("type(true) : " .. type(true))
+print("type(nil) : " .. type(nil))
+print("type(type(X)) : " .. type(type(X)))
